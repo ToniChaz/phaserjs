@@ -9,16 +9,17 @@ A Phaser project
 
 ## Run and Build
 
+### Install dependencies
 ``` bash
-# install dependencies
-```
 npm install
+```
 
-# serve with hot reload at localhost:8080
+### Serve with hot reload at localhost:8080
 ``` bash
 npm start
+```
 
-# build for production with minification
+### Build for production with minification
 ``` bash
 npm run build
 ```
@@ -27,5 +28,5 @@ npm run build
 
 You need add your local IP at the end of the line in scripts.start of package.json (--host 192.168.1.37)
 
-For detailed explanation on how things work, check out the [docs for Phaser CE](https://photonstorm.github.io/phaser-ce/).
+  For detailed explanation on how things work, check out the [docs for Phaser CE](https://photonstorm.github.io/phaser-ce/).
 
